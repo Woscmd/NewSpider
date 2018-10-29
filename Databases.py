@@ -3,7 +3,7 @@ import pymysql
 
 def save(title, url):
 	# 打开数据库连接
-	db = pymysql.connect("localhost", "root", "msi;123", "test")
+	db = pymysql.connect("localhost", "username", "password", "database")
 	# 使用cursor()方法获取操作游标 
 	cursor = db.cursor()	
 	# 使用 execute() 方法执行 SQL，如果表存在则删除
@@ -74,6 +74,4 @@ def empty():
 		return 1
 
 if __name__ == '__main__':
-	#save("中文", "https://www.baidu.com")
-	print(read("山东"))
-	#print(empty())
+	pass
