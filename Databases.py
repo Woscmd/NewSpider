@@ -78,4 +78,8 @@ def empty():
 		return 1
 
 if __name__ == '__main__':
+<<<<<<< HEAD
 	pass
+=======
+	pass
+>>>>>>> fdfe44215785d645d69e0cc1cff9164b2a552fbd
