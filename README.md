@@ -1,9 +1,8 @@
-# NewSpider
-¸ÃÅÀ³æ»ùÓÚPython±àÐ´£¬ÅÀÈ¡µÄ¹Ø¼ü´Ê¼°Æä¶ÔÓ¦µÄÁ´½Ó´æÈ¡ÖÁMySQLÊý¾Ý¿â¡£
-Ò»¸ö¼òÂªµÄÕ¾ÄÚËÑË÷¡£
-PageRankÊÇÔÚ¼üÈë¹Ø¼ü×ÖÖ®ºóÔËÐÐ¡£
+# Website Search
 
-main.pyÎªÖ÷³ÌÐò
-link.pyÅÐ¶ÏÖ÷Á´½ÓÖÐÊÇ·ñº¬ÓÐ×ÓÁ´½Ó
-Database.pyÎªÊý¾Ý¿â´æÈ¡
-PageRank.py¶ÔËÑË÷½á¹û½øÐÐÈ¨ÖØÅÅÐò
+ ä¸€ä¸ªç®€é™‹çš„ç«™å†…æœç´¢ã€‚åŸºäºŽPythonç¼–å†™ï¼Œçˆ¬å–çš„å…³é”®è¯åŠå…¶å¯¹åº”çš„é“¾æŽ¥å­˜å–è‡³MySQLæ•°æ®åº“ï¼Œ PageRankæ˜¯åœ¨é”®å…¥å…³é”®å­—ä¹‹åŽè¿è¡Œã€‚
+
+- main.pyä¸ºä¸»ç¨‹åº 
+- link.pyåˆ¤æ–­ä¸»é“¾æŽ¥ä¸­æ˜¯å¦å«æœ‰å­é“¾æŽ¥ 
+- Database.pyä¸ºæ•°æ®åº“å­˜å– 
+- PageRank.pyå¯¹æœç´¢ç»“æžœè¿›è¡Œæƒé‡æŽ’åº
